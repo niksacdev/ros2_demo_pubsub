@@ -2,10 +2,10 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>demo_pub</name>
-  <version>0.0.0</version>
-  <description>Minimal Demo Publisher</description>
+  <version>0.0.1</version>
+  <description>Demo Publisher</description>
   <maintainer email="parallels@todo.todo">parallels</maintainer>
-  <license>TODO: License declaration</license>
+  <license>MIT</license>
 
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
